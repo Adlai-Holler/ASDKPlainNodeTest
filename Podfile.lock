@@ -1,0 +1,23 @@
+PODS:
+  - AsyncDisplayKit (1.9.2):
+    - AsyncDisplayKit/ASDealloc2MainObject (= 1.9.2)
+  - AsyncDisplayKit/ASDealloc2MainObject (1.9.2)
+
+DEPENDENCIES:
+  - AsyncDisplayKit (from `https://github.com/Adlai-Holler/AsyncDisplayKit/`, branch
+    `WorkaroundCellContentsLoading`)
+
+EXTERNAL SOURCES:
+  AsyncDisplayKit:
+    :branch: WorkaroundCellContentsLoading
+    :git: https://github.com/Adlai-Holler/AsyncDisplayKit/
+
+CHECKOUT OPTIONS:
+  AsyncDisplayKit:
+    :commit: 34c487de5b6302397230f5e081d9c13fd4a7133e
+    :git: https://github.com/Adlai-Holler/AsyncDisplayKit/
+
+SPEC CHECKSUMS:
+  AsyncDisplayKit: 181097819b528d9337983acc5040df6687f06369
+
+COCOAPODS: 0.39.0
